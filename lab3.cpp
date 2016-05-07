@@ -91,7 +91,7 @@ int main(int argc, char const *argv[])
 				}
 			}
 		}
-		/*if(victoria!=4){
+		if(victoria!=4){
 			victoria=0;
 			for (int i = 0; i < 4; ++i)
 			{
@@ -102,7 +102,7 @@ int main(int argc, char const *argv[])
 					}
 				}
 			}
-		}*/
+		}
 
 		if(victoria==4){
 			estado=true;
